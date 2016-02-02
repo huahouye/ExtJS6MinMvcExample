@@ -1,0 +1,27 @@
+# node js lib
+node_modules
+
+# cloud config files
+start.sh
+# VIM
+*~
+*.swp
+
+#Eclipse files
+.jshintrc
+*.project
+.sublime-project
+.tern-project
+
+# Package Files #                                                               
+*.jar                                                                           
+*.war                                                                           
+*.ear  
+
+# folders
+.classpath/                                                                     
+.settings/                                                                      
+.metadata/                                                                      
+WEB-INF/lib/                                                                    
+META-INF/                                                                       
+Servers/ 
